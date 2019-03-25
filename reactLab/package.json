@@ -1,0 +1,18 @@
+{
+  "name": "reactlab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "MIT ",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
