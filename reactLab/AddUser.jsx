@@ -29,7 +29,7 @@ export default class AddUser extends Component {
                 <label>Name:</label>
                 <input type="text" onChange={event =>
                     this.onNameChange(event)}/>
-                <button type="submit">Add</button>
+                <button type="submit">Add New User</button>
             </form>
         </div>;
     }
